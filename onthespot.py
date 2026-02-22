@@ -1,4 +1,8 @@
 #!/usr/bin/env micropython
+
+##! Code used for on the spot championships in 2023 Long Beach
+
+
 #? For explaining declarations.
 #* For explaning classes and functions
 #! Something that is important to look at later, or might be confusing
